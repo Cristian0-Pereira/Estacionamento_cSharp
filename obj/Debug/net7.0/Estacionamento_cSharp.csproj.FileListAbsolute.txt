@@ -1,0 +1,14 @@
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\bin\Debug\net7.0\Estacionamento_cSharp.exe
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\bin\Debug\net7.0\Estacionamento_cSharp.deps.json
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\bin\Debug\net7.0\Estacionamento_cSharp.runtimeconfig.json
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\bin\Debug\net7.0\Estacionamento_cSharp.dll
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\bin\Debug\net7.0\Estacionamento_cSharp.pdb
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\obj\Debug\net7.0\Estacionamento_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\obj\Debug\net7.0\Estacionamento_cSharp.AssemblyInfoInputs.cache
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\obj\Debug\net7.0\Estacionamento_cSharp.AssemblyInfo.cs
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\obj\Debug\net7.0\Estacionamento_cSharp.csproj.CoreCompileInputs.cache
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\obj\Debug\net7.0\Estacionamento_cSharp.dll
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\obj\Debug\net7.0\refint\Estacionamento_cSharp.dll
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\obj\Debug\net7.0\Estacionamento_cSharp.pdb
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\obj\Debug\net7.0\Estacionamento_cSharp.genruntimeconfig.cache
+D:\VSCode\estudos\DIO\Desafios\Estacionamento_cSharp\obj\Debug\net7.0\ref\Estacionamento_cSharp.dll
